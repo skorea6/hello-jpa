@@ -3,8 +3,8 @@
 #### 지금 시대는 객체를 관계형 DB에 관리
 
 ## 연관관계
-객체는 참조를 사용: member.getTeam()
-테이블은 외래 키를 사용: JOIN ON M.TEAM_ID = T.TEAM_ID
+- 객체는 참조를 사용: member.getTeam()
+- 테이블은 외래 키를 사용: JOIN ON M.TEAM_ID = T.TEAM_ID
 
 ## ORM?
 - Object-relational mapping(객체 관계 매핑)
